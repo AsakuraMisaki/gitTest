@@ -1,1 +1,7 @@
+#this file is provided to add files/folders which is to be ignored when git add <op>
+#folder
 DoNotPush
+#fileType
+.xxx
+#fileWith a name
+some.xxx
